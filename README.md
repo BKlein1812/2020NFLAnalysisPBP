@@ -70,3 +70,4 @@ summary(newpassgb)
 ## In comparison, Green Bay ran the ball about 6.73% more throughout the year. They also threw the ball short at a similar rate to 
 ## Kansas City at about 79.24%. These two teams were both the #1 seeds respectively in the AFC and NFC so it made sense to compare
 ## them offensively.
+
